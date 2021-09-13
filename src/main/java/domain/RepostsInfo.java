@@ -1,7 +1,7 @@
 package domain;
 
 public class RepostsInfo {
-    private int id;
-    private String imageUrl;
-    private int counter;
+    private int count;
+    private int user_reposted;
+
 }

@@ -1,8 +1,8 @@
 package domain;
 
 public class CommentsInfo {
-    private int id;
-    private String imageUrl;
-    private int counter;
+    private int count;
+    private int can_post;
+    private int groups_can_post;
 
 }

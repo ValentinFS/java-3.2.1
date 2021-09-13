@@ -1,7 +1,9 @@
 package domain;
 
 public class LikesInfo {
-    private int id;
-    private String imageUrl;
-    private int counter;
+    private int count;
+    private int user_likes;
+    private int can_like;
+    private int can_publish;
+
 }
