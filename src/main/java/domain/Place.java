@@ -10,8 +10,8 @@ public class Place {
     private String country;
     private String city;
     private int type;
-    private int group_id;
-    private String group_photo;
+    private int groupId;
+    private String groupPhoto;
     private int checkins;
     private int updated;
     private int address;

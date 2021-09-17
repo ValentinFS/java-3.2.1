@@ -8,24 +8,24 @@ public class Post {
     private String time;
     private String text;
     private String mediaUrl;
-    private int owner_id;
-    private int from_id;
-    private int created_by;
-    private int reply_owner_id;
-    private int reply_post_id;
-    private int friends_only;
+    private int ownerId;
+    private int fromId;
+    private int createdBy;
+    private int replyOwnerId;
+    private int replyPostId;
+    private int friendsOnly;
     private CommentsInfo commentsInfo;
     private LikesInfo likesInfo;
     private RepostsInfo repostsInfo;
-    private String post_type;
+    private String postType;
     private Geo geo;
-    private int signer_id;
-    private int can_pin;
-    private int can_delete;
-    private int can_edit;
-    private int is_pinned;
-    private int marked_as_ads;
-    private boolean is_favorite;
+    private int signerId;
+    private int canPin;
+    private int canDelete;
+    private int canEdit;
+    private int isPinned;
+    private int markedAsAds;
+    private boolean isFavorite;
 
 
 }
